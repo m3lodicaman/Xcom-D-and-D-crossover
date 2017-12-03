@@ -1,0 +1,1 @@
+selected = selected * -1
