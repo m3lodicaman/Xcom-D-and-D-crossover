@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "043865cd-6b3f-412e-b9d3-3e7b45c9e4e0",
+            "Value": {
+                "id": "3627c4d8-ebc3-4bd0-b1e2-e58027fc559f",
+                "resourcePath": "objects\\obj_wall_stone\\obj_wall_stone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "11031e2e-efd3-4380-8910-2bb959589bb4",
             "Value": {
                 "id": "e77063ef-8729-4e50-8d86-5ad46d7714ca",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "4543b350-fbd4-4537-90fe-b26d92eb6d77",
+            "Value": {
+                "id": "54fea507-ea33-4162-8bf3-fc9c35adf989",
+                "resourcePath": "objects\\obj_mouse\\obj_mouse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "489b48c7-b3fd-4a86-90f9-e361c441af8a",
             "Value": {
                 "id": "a1ae4b0c-0794-45f5-8c3d-7e9f7694fc3f",
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "5c02d6b3-573f-4d87-8703-57db1095ff69",
+            "Value": {
+                "id": "695356f2-0bab-470d-967f-e2cc8b38234a",
+                "resourcePath": "sprites\\spr_end_turn_hover\\spr_end_turn_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8546fe51-7d78-4b9e-b861-9e3c1d8b7093",
             "Value": {
                 "id": "9eac664d-bd3f-4c4d-a4eb-86cdf5469bf0",
@@ -163,6 +187,14 @@
             "Value": {
                 "id": "01806dfd-87d0-4634-aaf9-021926c21059",
                 "resourcePath": "sprites\\spr_end_turn\\spr_end_turn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8efa3270-eb3e-4b41-9f01-f83a04cf6a29",
+            "Value": {
+                "id": "f17d3349-2cce-46b6-88d9-e4e465eb5c31",
+                "resourcePath": "sprites\\spr_mouse\\spr_mouse.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -267,6 +299,14 @@
             "Value": {
                 "id": "46a64f38-0c8e-4169-bf41-be85ca522e15",
                 "resourcePath": "sprites\\spr_character_monk\\spr_character_monk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2f0599e-0fb7-4dc6-af31-5a80d43f81a3",
+            "Value": {
+                "id": "256ea476-5bb4-480c-8e68-db26bdc7d795",
+                "resourcePath": "sprites\\spr_wall_stone\\spr_wall_stone.yy",
                 "resourceType": "GMSprite"
             }
         }
