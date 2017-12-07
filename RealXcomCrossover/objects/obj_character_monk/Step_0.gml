@@ -1,6 +1,7 @@
 if (selected = 1)
 {
 	instance_activate_object(obj_movement_selector)
+	instance_deactivate_object(obj_mouse);
 	if (actions < 2)
 	{
 		sprite_index = spr_character_monk_selected
@@ -16,4 +17,5 @@ if (selected = -1)
 {
 	sprite_index = spr_character_monk
 	instance_deactivate_object(obj_movement_selector)
+	instance_activate_object(obj_mouse);
 }
