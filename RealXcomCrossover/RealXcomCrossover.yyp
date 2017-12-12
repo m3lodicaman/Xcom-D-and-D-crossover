@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "94af4b94-26da-447a-8500-38e7dbded22d",
+            "Value": {
+                "id": "5de0eb06-4b00-47cc-81b6-d62a0cff0815",
+                "resourcePath": "sprites\\spr_ground_stone_can_move\\spr_ground_stone_can_move.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95eeb6bf-e7bc-411a-bd0d-1fa1d283e9b6",
             "Value": {
                 "id": "78978e72-6d05-45af-8bc8-88261bb03903",
