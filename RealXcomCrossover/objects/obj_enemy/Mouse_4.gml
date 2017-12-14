@@ -1,0 +1,1 @@
+scr_attack(obj_character_monk,obj_enemy);

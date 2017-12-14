@@ -5,3 +5,6 @@ max_actions = 2;
 can_move = 0;
 char_speed_tiles = 5;
 char_speed = char_speed_tiles * 64;
+char_health = 10;
+can_attack = 0;
+char_damage = 3;

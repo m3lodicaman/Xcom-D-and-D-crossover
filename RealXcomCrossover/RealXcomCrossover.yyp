@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "4deeceeb-7f86-43af-9515-84367d1acb34",
+            "Value": {
+                "id": "6f90842b-7858-4cbd-a943-f33f2f65e6c4",
+                "resourcePath": "scripts\\scr_attack\\scr_attack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "532ae99d-c47f-4cb4-a26f-41dce2cd2ede",
             "Value": {
                 "id": "174d8198-0c78-42c1-8124-b3da52281a7f",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "a32e5c74-625f-4052-930d-bcccd0bf5c96",
+            "Value": {
+                "id": "624ca802-bae2-4f82-97f7-608bceac7c2f",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a416933d-9a2c-4c94-be58-39f2f17b3f20",
             "Value": {
                 "id": "9387bbe8-8fb4-4c72-aa20-d5ce28f87356",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "d81ce636-6afa-49b8-bcf1-82774a715a86",
+            "Value": {
+                "id": "5d8bbecf-df78-4f77-a52f-f2cb4d8ce4a8",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ead009f7-1c73-46a8-9f89-2d661963b0b9",
             "Value": {
                 "id": "92be90fa-bad7-4b86-8f33-6c54ce74e312",
@@ -320,7 +344,7 @@
         }
     ],
     "script_order": [
-        
+        "4deeceeb-7f86-43af-9515-84367d1acb34"
     ],
     "tutorial": ""
 }

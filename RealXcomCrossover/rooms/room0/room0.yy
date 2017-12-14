@@ -205,7 +205,8 @@
         "75027dfc-88ee-49d4-b628-e0a4de9a33b2",
         "28d49c24-82f3-45bd-bdc8-6a50d4caad55",
         "5f6c3e3b-43b3-459f-a63d-3fb3f65951c7",
-        "f5c3e6a0-0ed3-418e-b3e0-e4d4f6021116"
+        "f5c3e6a0-0ed3-418e-b3e0-e4d4f6021116",
+        "39bc47de-c70c-41df-8866-ddd95f0a5328"
     ],
     "IsDnD": false,
     "layers": [
@@ -237,9 +238,35 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Enemies",
+            "id": "b9d1d8b8-14a1-4e15-b9d0-9c6d47ebf608",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+                {"name": "inst_F63108D","id": "39bc47de-c70c-41df-8866-ddd95f0a5328","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_F63108D","objId": "a32e5c74-625f-4052-930d-bcccd0bf5c96","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 544,"y": 288}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Characters",
             "id": "a79450ef-dc31-444d-92e6-754b2ddb87aa",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -265,7 +292,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Markers",
             "id": "113998c4-5d6c-4432-bc1f-d374e51cc145",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -291,7 +318,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Buttons",
             "id": "1afb221e-dc7b-4627-a02b-7c9c8b061a85",
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -302,7 +329,7 @@
             "inheritVisibility": false,
             "instances": [
                 {"name": "inst_67161A8B","id": "28d49c24-82f3-45bd-bdc8-6a50d4caad55","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_67161A8B","objId": "b3220ae4-88ce-4d54-986e-1fde5cd6371b","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 832,"y": 480},
-                {"name": "inst_46613C5F","id": "5f6c3e3b-43b3-459f-a63d-3fb3f65951c7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_46613C5F","objId": "ead009f7-1c73-46a8-9f89-2d661963b0b9","rotation": 0,"scaleX": 3,"scaleY": 2.5,"mvc": "1.0","x": 832,"y": 608}
+                {"name": "inst_46613C5F","id": "5f6c3e3b-43b3-459f-a63d-3fb3f65951c7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_46613C5F","objId": "ead009f7-1c73-46a8-9f89-2d661963b0b9","rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.0","x": 928,"y": 672}
             ],
             "layers": [
 
@@ -318,7 +345,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Tiles",
             "id": "66d42246-a2ad-4923-ba2f-b3464f7a6e33",
-            "depth": 400,
+            "depth": 500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -540,7 +567,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 500,
+            "depth": 600,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

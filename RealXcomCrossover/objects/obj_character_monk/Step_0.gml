@@ -19,3 +19,19 @@ if (selected = -1)
 	instance_deactivate_object(obj_movement_selector)
 	instance_activate_object(obj_mouse);
 }
+
+
+/////////////////////ATTACKS//////////////////////
+
+if (place_meeting(x + 64,y,obj_enemy)) || (place_meeting(x - 64,y,obj_enemy)) || (place_meeting(x,y + 64,obj_enemy)) || (place_meeting(x,y - 64,obj_enemy))
+{
+	if (selected = 1) && (actions < max_actions)
+	{
+		can_attack = 1;	
+	}
+}
+else
+{
+	can_attack = 0;	
+}
+
