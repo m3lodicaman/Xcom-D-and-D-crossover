@@ -31,3 +31,4 @@ weapon1[0] = "Weapon 1";
 weapon1[1] = strength_mod;
 weapon1[2] = 1;
 weapon1[3] = 6;
+weapon1[4] = strength_mod;
