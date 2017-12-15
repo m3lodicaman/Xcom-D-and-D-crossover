@@ -64,4 +64,4 @@ char_damage = 3;
 hit_dice = 8;
 hit_dice_amount = level;
 
-armor_class = 10 + dexterity_mod + widsom_mod;
+armor_class = 10 + dexterity_mod + wisdom_mod;
