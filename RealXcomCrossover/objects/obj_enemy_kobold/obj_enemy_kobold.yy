@@ -2,7 +2,7 @@
     "id": "a32e5c74-625f-4052-930d-bcccd0bf5c96",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_basic",
+    "name": "obj_enemy_kobold",
     "eventList": [
         {
             "id": "ea570e9a-5a31-4591-ba21-93859da9a228",
@@ -36,6 +36,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
     "parentObjectId": "f4590362-54a6-4b61-bc5a-83b4cdff6ec8",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -50,6 +51,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
+    "properties": null,
     "solid": false,
     "spriteId": "d81ce636-6afa-49b8-bcf1-82774a715a86",
     "visible": true

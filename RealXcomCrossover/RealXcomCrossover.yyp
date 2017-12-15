@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "84ce3ee0-47c7-4318-a7c0-7d25fab4413b",
+            "Value": {
+                "id": "69a7da71-c8c0-49b3-9643-c2a0bc447481",
+                "resourcePath": "objects\\obj_character\\obj_character.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8546fe51-7d78-4b9e-b861-9e3c1d8b7093",
             "Value": {
                 "id": "9eac664d-bd3f-4c4d-a4eb-86cdf5469bf0",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "8fcda913-4dba-495b-9ec7-8d9095c3d202",
+            "Value": {
+                "id": "afdc75a1-ef2e-48bd-8915-e29b7768da46",
+                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94af4b94-26da-447a-8500-38e7dbded22d",
             "Value": {
                 "id": "5de0eb06-4b00-47cc-81b6-d62a0cff0815",
@@ -226,7 +242,7 @@
             "Key": "a32e5c74-625f-4052-930d-bcccd0bf5c96",
             "Value": {
                 "id": "624ca802-bae2-4f82-97f7-608bceac7c2f",
-                "resourcePath": "objects\\obj_enemy_basic\\obj_enemy_basic.yy",
+                "resourcePath": "objects\\obj_enemy_kobold\\obj_enemy_kobold.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -252,6 +268,14 @@
                 "id": "92e1e335-9b59-48c5-961d-c8ba82d624db",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "afebfab6-a3ba-455d-85c2-6e7292d26776",
+            "Value": {
+                "id": "b7e5b9a9-b55e-4ff3-8bdb-390c7cffa6f0",
+                "resourcePath": "scripts\\scr_find_modifiers\\scr_find_modifiers.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "ceedd9b6-67d1-483a-8a07-4e162c4fde5c",
+            "Value": {
+                "id": "3eecad75-85bb-4928-be10-ae039d6e71ee",
+                "resourcePath": "sprites\\srp_enemy_kobold_damaged\\srp_enemy_kobold_damaged.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d0681561-271d-42c8-aae3-6dd469c788bc",
             "Value": {
                 "id": "5de0cf5c-4e6f-4e68-af1f-0f7b749b3d4a",
@@ -306,7 +338,7 @@
             "Key": "d81ce636-6afa-49b8-bcf1-82774a715a86",
             "Value": {
                 "id": "5d8bbecf-df78-4f77-a52f-f2cb4d8ce4a8",
-                "resourcePath": "sprites\\srp_enemy_basic\\srp_enemy_basic.yy",
+                "resourcePath": "sprites\\srp_enemy_kobold\\srp_enemy_kobold.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -379,7 +411,8 @@
         "4deeceeb-7f86-43af-9515-84367d1acb34",
         "fbe938b5-21a4-4e00-bad0-7a58a4db9268",
         "d0681561-271d-42c8-aae3-6dd469c788bc",
-        "e2a49fa6-6fc0-49e7-9c48-d4fee2de26f4"
+        "e2a49fa6-6fc0-49e7-9c48-d4fee2de26f4",
+        "afebfab6-a3ba-455d-85c2-6e7292d26776"
     ],
     "tutorial": ""
 }

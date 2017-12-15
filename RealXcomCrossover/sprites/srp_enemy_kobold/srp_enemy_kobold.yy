@@ -2,7 +2,7 @@
     "id": "d81ce636-6afa-49b8-bcf1-82774a715a86",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "srp_enemy_basic",
+    "name": "srp_enemy_kobold",
     "For3D": false,
     "HTile": false,
     "VTile": false,
