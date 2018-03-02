@@ -1,1 +1,1 @@
-scr_attack(obj_character_monk,obj_enemy);
+scr_attack(obj_character_monk,obj_enemy_kobold);
